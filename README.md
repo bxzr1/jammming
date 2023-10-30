@@ -6,6 +6,10 @@ A learning project to practice React and making requests with third-party APIs. 
 
 
 
+https://github.com/bxzr1/jammming/assets/19394780/33bb4259-8f78-4b81-af28-3263c1a80aa3
+
+
+
 ## To Run This Project
 
 In the project directory, you can run:
